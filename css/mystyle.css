@@ -1,0 +1,25 @@
+#head_area{
+  background-color: black;
+  color: orange;
+  font-family:sans-serif;
+  padding: 0.15% 0 0.15% 0;
+  
+}
+#headfont{
+  margin-right: 10px;
+  display: inline;
+}
+
+.head{
+  color: white;
+}
+footer{
+  text-align: center;
+}
+img{
+  width: auto;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
